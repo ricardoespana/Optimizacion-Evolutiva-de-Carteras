@@ -21,7 +21,7 @@ tiempo_inicio = time.time()
 
 #PARAMETROS
 start_date = "2020-01-01"
-end_date = "2020-12-31"
+end_date = "2025-12-31"
 frequency = "1D"
 df_SP = pd.read_csv("df_u_lseg.csv")
 
