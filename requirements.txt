@@ -1,0 +1,19 @@
+# --- 1. DATA PROCESSING & EDA ---
+pandas
+numpy
+matplotlib
+seaborn
+ta
+statsmodels
+
+# --- 2. NLP & SENTIMENT ANALYSIS ---
+transformers
+torch            
+
+# --- 3. REINFORCEMENT LEARNING & GA ---
+gymnasium         
+optuna           
+
+# --- 4. EXPLAINABLE AI (XAI) ---
+scikit-learn      
+shap              
