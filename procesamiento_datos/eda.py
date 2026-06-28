@@ -176,8 +176,8 @@ for idx, ticker in enumerate(tickers, 1):
     plt.savefig(os.path.join(DIR_ACTIVO, f'{ticker}_02_histograma_retornos.png'), dpi=150)
     plt.close()
     
-    # 4.3 Gráfico C: Autocorrelación (ACF) - ¡NUEVO!
-    # Muestra si los retornos de ayer predicen los de hoy (vital para RL)
+    # 4.3 Gráfico C: Autocorrelación (ACF) 
+    # Muestra si los retornos de ayer predicen los de hoy
     plt.figure(figsize=(10, 5))
     plot_acf(df_ticker['Log_Ret'], lags=20, alpha=0.05, ax=plt.gca())
     plt.title(f'{ticker}: Autocorrelación de Retornos (Lags 1-20)')
