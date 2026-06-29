@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "Si utilizas este software o este repositorio en tu investigación, por favor cítalo usando los siguientes metadatos."
+title: "Optimización Evolutiva de Carteras: Aplicación del Algoritmo Genético para el Mercado Español."
+authors:
+  - family-names: "España López"
+    given-names: "Ricardo"
+version: 1.0.0
+date-released: "2026-06-30"
+url: "https://github.com/ricardoespana/Optimizaci-n-Evolutiva-de-Carteras"
+repository-code: "https://github.com/ricardoespana/Optimizaci-n-Evolutiva-de-Carteras"
