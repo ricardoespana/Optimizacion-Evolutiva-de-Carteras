@@ -1,6 +1,6 @@
 # Optimizacion-Evolutiva-de-Carteras
 Repositorio de código utilizado para la elaboración del proyecto de fin de máster 
-
+<!--
 TFM_Optimizacion_Evolutiva_Carteras/
 │
 ├── README.md                # El documento principal de presentación de tu proyecto
@@ -26,3 +26,4 @@ TFM_Optimizacion_Evolutiva_Carteras/
 ├── 4_random_forest/      # Fase 4: Modelo sustituto
 │   ├── backtest_results.py  # Scripts para calcular Sharpe, Drawdown, CAGR en test
 │   └── xai_shap_analysis.py # Scripts del modelo Random Forest sustituto y gráficos SHAP
+-->
